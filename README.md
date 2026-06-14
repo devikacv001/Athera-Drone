@@ -311,7 +311,7 @@ The long-term vision is to enable intelligent autonomous platforms capable of as
 Computer Science and Business Systems  
 Dayananda Sagar College of Engineering
 
-GitHub: https://github.com/devikacv001
+Email: devikacv2005@gmail.com
 
 ### Vinay G
 Computer Science and Business Systems  
