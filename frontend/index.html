@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ATHERA DRONE</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <h1>🚁 ATHERA DRONE </h1>
+
+    <div class="grid">
+
+        <!-- Voice Command -->
+        <div class="card">
+            <h2>🎤 Voice Command</h2>
+
+            <button id="startBtn">Start Listening</button>
+            <button id="stopBtn">Stop Listening</button>
+
+            <h3>Recognized Speech</h3>
+            <p id="speech">Waiting...</p>
+        </div>
+
+        <!-- Requested Items -->
+        <div class="card">
+            <h2>🛒 Requested Items</h2>
+            <ul id="itemsList"></ul>
+        </div>
+
+        <!-- Mission Plan -->
+        <div class="card">
+            <h2>🧠 Mission Plan</h2>
+            <ul id="missionList"></ul>
+        </div>
+        <!-- Shop Recommendations -->
+        <div class="card">
+            <h2>🏪 Best Shops</h2>
+            <p id="shopType"></p>
+            <ul id="shopList"></ul>
+        </div>
+
+    </div>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>

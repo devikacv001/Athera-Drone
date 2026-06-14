@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+faster-whisper
+requests
+python-multipart
+
+langgraph
+langchain-core
+
+torch
+transformers
+pillow
+opencv-python
+
+geopy
